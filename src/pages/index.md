@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Game team wanted
+title: Gamers Wanted
 image: /img/photo-1539541289005-22e0a5449aee.jpeg
 heading: 'Great Gamers can team up '
-subheading: Support sustainable farming while enjoying a cup
+subheading: Play and be paid as a pro
 mainpitch:
   title: Why max-xp
   description: >
