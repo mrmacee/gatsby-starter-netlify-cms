@@ -2,20 +2,18 @@
 templateKey: index-page
 title: Game team wanted
 image: /img/photo-1539541289005-22e0a5449aee.jpeg
-heading: Great coffee with a conscience
+heading: 'Great Gamers can team up '
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why max-xp
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Max XP is the place where gamers and streamer can find the right promotion
+    gig ! for everyone who believes that great We source all of the best gamers
+    directly and make sure part of the profits are reinvested in their
+    communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Max XP  is the ultimate spot for gamers who want play professional and we’re
+  glad to assist anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
