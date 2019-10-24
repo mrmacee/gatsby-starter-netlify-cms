@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Game team wanted
 image: /img/photo-1539541289005-22e0a5449aee.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
